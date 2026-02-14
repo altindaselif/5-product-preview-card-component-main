@@ -10,8 +10,8 @@ This is a Product Preview Card component that you can use on your websites.
 
 ## Links
 
-- **GitHub Repository:** [View Code](https://github.com/altindaselif/product-preview-card-component-main)
-- **Live Demo:** [View Live Site](https://altindaselif.github.io/product-preview-card-component-main/)
+- **GitHub Repository:** [View Code](https://github.com/altindaselif/5-product-preview-card-component-main)
+- **Live Demo:** [View Live Site](https://altindaselif.github.io/5-product-preview-card-component-main/)
 
 ## Built With
 
